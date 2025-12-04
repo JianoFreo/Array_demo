@@ -1,6 +1,3 @@
-//Jiano Freo Matangob
-//BSIS-2B
-
 #include <iostream>
 #include <string>
 using namespace std;

@@ -1,6 +1,3 @@
-//Jiano Freo Magtangob
-//BSIS-2B
-
 #include <iostream>
 #include <string>
 #include <algorithm>
